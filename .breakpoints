@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.cpp": [
+      {
+        "id": "5efbb3b9-513e-4a11-86e3-616e46a1bb3e",
+        "line": 117,
+        "version": 5255,
+        "index": 2204
+      }
+    ],
+    "pokemonhashtable.cpp": [
+      {
+        "id": "994ca496-7b70-45ac-a6e3-4923ca8f3779",
+        "line": 8,
+        "version": 3397,
+        "index": 87
+      }
+    ]
+  }
+}
